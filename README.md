@@ -13,4 +13,4 @@ Fun game to get a little knowledge about Germany!
 - game continues for every 10 questions until user is done
 
 - ending page displays the score of the answers from the user
-    -with button to play the game again, if the user wishes to
+    - with button to play the game again, if the user wishes to
