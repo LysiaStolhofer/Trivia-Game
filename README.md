@@ -14,3 +14,6 @@ Fun game to get a little knowledge about Germany!
 
 - ending page displays the score of the answers from the user
     - with button to play the game again, if the user wishes to
+
+
+VIEL ERFOLG! (means "good luck!")
