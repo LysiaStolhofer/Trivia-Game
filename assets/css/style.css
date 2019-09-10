@@ -1,0 +1,98 @@
+/* General css */
+
+body {
+  background-image: url("../images/hintergrund1.jpg");
+  background-size: cover;
+  font-family: 'Karla', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: darkred;
+  font-weight: bolder;
+  padding: 20px;
+  font-size: 45px;
+  font-family: 'Cinzel', serif;
+}
+
+h2 {
+  margin: 30px;
+  font-family: 'Cinzel', serif;
+}
+
+h3 {
+    font-weight: bold; 
+    color: darkgoldenrod;
+    font-family: 'Cinzel', serif;
+}
+
+h4 {
+  margin: 30px;
+  font-family: 'Cinzel', serif;
+  font-weight: bold; 
+}
+
+p {
+  margin: 10px;
+  font-weight: bold;
+  color: darkred;
+  font-size: 20px;
+  font-family: 'Cinzel', serif;
+}
+
+img {
+  max-height: 250px;
+  width: auto;
+}
+
+/* Classes */
+
+.wrapper {
+  margin: 10px auto;
+  background-color: rgba(255, 255, 255, 0.7);
+  border: 2px solid darkgoldenrod;
+  height: 500px;
+  width: 60%;
+  text-align: center;
+}
+
+.btn {
+  position: relative;
+  bottom: -150px;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: darkred;
+    border-color: darkred;
+    font-family: 'Cinzel', serif;
+}
+
+.answerchoice {
+  border: 1px solid black;
+  border-radius: 5%;
+  width: 40%;
+  color: white;
+  text-align: center;
+  margin: 10px auto;
+  font-size: 20px;
+  background-color: darkolivegreen;
+  font-family: 'Cinzel', serif;
+}
+
+/* IDs */
+
+#answerblock {
+  text-align: center;
+  font-family: 'Cinzel', serif;
+
+}
+
+#questionblock {
+  text-align: center;
+  font-weight: bold;
+}
+
+#reset {
+  visibility: visible;
+}
